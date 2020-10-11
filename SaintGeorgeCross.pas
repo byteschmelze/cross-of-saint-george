@@ -1,4 +1,4 @@
-PROGRAM SaintGeorgCross;
+PROGRAM SaintGeorgeCross;
 
 USES
 	Crt;
